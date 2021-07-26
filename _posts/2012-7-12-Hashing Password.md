@@ -5,8 +5,7 @@ categories:
   - engg
 tags:
   - engg
-  - readability
-  - standard
+  - security
 ---
 
 What can we learn from big oil companies? Recently, Anonymous attacked [Oil companies](http://www.valuewalk.com/2012/07/exxon-shell-bp-gazprom-and-rosneft-emails-hacked-by-anonymous/).
